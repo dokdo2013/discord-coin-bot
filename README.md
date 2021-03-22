@@ -27,4 +27,4 @@
 - v 0.1.0 : 첫 버전 릴리즈
 
 ## License
-GNU GPL 2.0
+GNU GPL 3.0
