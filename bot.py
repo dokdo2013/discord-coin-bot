@@ -106,4 +106,8 @@ async def 버전(ctx):
     data = '버전 0.1.5 (분봉, 주봉, 월봉 기능 추가)'
     await ctx.send(data)
 
+@app.command()
+async def hellothisisverification(ctx):
+    await ctx.send('현우#1000')
+    
 app.run('')
